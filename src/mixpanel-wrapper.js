@@ -91,6 +91,7 @@
         'track',
         'track_forms',
         'track_links',
+	'track_pageview',
         'track_with_groups',
         'unregister',
         'people.append',
